@@ -1,6 +1,6 @@
 =============OMEGADRIVE============
 =			  	  				  =
-=           Version 1.1           =
+=           Version 1.4           =
 =       Created by Arcanthur      =
 =				  				  =
 ===================================
@@ -17,7 +17,54 @@ https://forums.launchbox-app.com/files/file/2485-colorful-resources/
 To the RetroPie dev team for giving us such awesome software.
 
 -----------------------------------
-CHANGELOG
+CHANGELOG 1.4
+-----------------------------------
+
+Systems added:
+
+- Sega Saturn (Black and White variants)
+- Apple II
+- Amstrad CPC 464
+- Atari 800
+- Microsoft MSX
+- Microsoft MS-DOS
+
+
+-----------------------------------
+CHANGELOG 1.3
+-----------------------------------
+
+Systems added:
+
+- Neo Geo CD
+- 3DO
+- X68000
+- Vectrex
+
+Fixed:
+
+- Description for Neo Geo AES was using the one for the MVS (corrected).
+
+-----------------------------------
+CHANGELOG 1.2
+-----------------------------------
+
+Systems added:
+
+- SuperGrafx
+- VirtualBoy
+- ZX Spectrum
+
+Updated:
+
+- Found borders on some home screen platforms had missing elements, now corrected.
+
+New:
+
+- Added PSD templates for the home menu and generic system list
+
+-----------------------------------
+CHANGELOG 1.1
 -----------------------------------
 
 Systems Added:
